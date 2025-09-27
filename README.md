@@ -35,7 +35,7 @@ O sistema permite **cadastrar, listar, editar, excluir, consultar fichas virtuai
 
 ## 🗃️ Modelo Entidade-Relacionamento (DER)
 
-![DER do Sistema]([docs/der.png](https://github.com/JoaoPedroBalduino/Sistema_Coleta_de_Assinaturas/blob/main/Modelo%20de%20Relacionamento.png))
+![DER do Sistema](<img width="522" height="992" alt="image" src="https://github.com/user-attachments/assets/1aed00f6-7c10-4e45-bc59-718567921227" />)
 
 ---
 
