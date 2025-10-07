@@ -15,6 +15,7 @@ Acesse o sistema online: [Clique aqui](https://cxz9k47hrtgciljhaav8nk.streamlit.
 
 Assista ao vídeo no YouTube explicando o projeto:  
 [![Miniatura do Vídeo](https://img.youtube.com/vi/KGwS9bf6dFI/0.jpg)](https://www.youtube.com/watch?v=KGwS9bf6dFI&t=95s)
+**CLIQUE NA IMAGEM**
 
 ---
 
